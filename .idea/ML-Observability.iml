@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/skills" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (ML-Observability)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="uv (ML-Observability)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
